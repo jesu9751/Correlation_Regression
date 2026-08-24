@@ -24,6 +24,10 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
-
 # Output 
+<img width="880" height="242" alt="Screenshot 2026-08-24 191012" src="https://github.com/user-attachments/assets/493be1bc-6aa3-4203-a1ed-3db7361f2de2" />
+
+
+# Result
+The performance measures of a single-server queuing model (M/M/1) with infinite capacity were successfully calculated and evaluated using Python.
+
